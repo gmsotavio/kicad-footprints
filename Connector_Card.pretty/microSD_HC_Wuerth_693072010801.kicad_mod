@@ -1,6 +1,6 @@
-(module microSD_HC_Wuerth_693072010801 (layer F.Cu) (tedit 5DA9F454)
+(module microSD_HC_Wuerth_693072010801 (layer F.Cu) (tedit 5DA9F487)
   (descr "Micro SD Card Connector, Hinge, 8 pins (http://katalog.we-online.de/em/datasheet/693072010801.pdf)")
-  (tags "Micro SD Wuerth Wurth Würth")
+  (tags "Micro SD Wuerth Wurth Würth Hinge")
   (attr smd)
   (fp_text reference REF** (at 0 -7.99) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
